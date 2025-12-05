@@ -1,48 +1,66 @@
-# 👋 Olá, eu sou Gabriel — Desenvolvedor Python  
+# 👋 Olá, eu sou Gabriel Desenvolvedor Python  
 
-Atualmente cursando Ciência da Computação e focado em Backend, IA, Automação e Ciência de Dados.
+**Digital Craftsman Backend | IA | Automação | Dados**
 
-## 🚀 Projetos principais
+Sou um desenvolvedor Python apaixonado por resolver problemas reais com código.  
+Atualmente curso **Ciência da Computação** e foco meu aprendizado em:
 
-### 🔧 Automação
-- **Gerador automático de PDF** – gera relatórios PDF a partir de planilhas  
-- **Automatização de Excel** – leitura, limpeza e reorganização de dados
+- Backend (APIs e servidores)
+- Inteligência Artificial
+- Automação de processos
+- Ciência de Dados
 
-### 🤖 Bots e IA
-- **Chatbot com IA (OpenAI API)**  
-- **Bot para Telegram** – comandos básicos e automações  
-- **Classificador de textos**
-
-### 🌐 Web / API
-- **API FastAPI com autenticação**  
-- **API Flask para cadastro e login**
-
-### 🕷️ Web Scraping
-- **Scraper de preços**  
-- **Scraper geral com exportação para Excel**
-
-### 📊 Dados
-- **Análise de vendas**  
-- **Limpeza e tratamento de dados usando Pandas**
-
----
-
-## 📈 Minhas estatísticas no GitHub  
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiRioRange&show_icons=true)](https://github.com/gabiRioRange) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiRioRange&layout=compact)](https://github.com/gabiRioRange)
+Construo meus projetos do zero: desde a ideia, planejamento e prototipação, até o resultado final funcional.
 
 ---
 
 ## 🛠️ Tech Stack & Skills  
-![Python](https://img.shields.io/static/v1?label=Python&message=3.x&color=blue&style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/static/v1?label=Flask&message=Micro-Web&color=grey&style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/static/v1?label=FastAPI&message=API&color=green&style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/static/v1?label=Pandas&message=Data-Analysis&color=yellow&style=for-the-badge&logo=pandas&logoColor=black)
 
-💡 E outras ferramentas conforme o crescimento dos seus projetos...
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-success?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-Microframework-lightgrey?style=for-the-badge&logo=flask)
+![Pandas](https://img.shields.io/badge/Pandas-Data--Analysis-yellow?style=for-the-badge&logo=pandas&logoColor=black)
+![Automation](https://img.shields.io/badge/Automação-Python-orange?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-Version--Control-red?style=for-the-badge&logo=git)
+
+---
+
+## 🚀 Projetos principais  
+
+### 🔧 Automação
+- **Gerador automático de PDF** – cria relatórios completos a partir de planilhas  
+- **Automação de Excel** – leitura, limpeza e reorganização de dados  
+
+### 🤖 Bots e IA
+- **Chatbot com IA (OpenAI API)**  
+- **Bot para Telegram** – comandos automáticos e respostas inteligentes  
+- **Classificador de textos (NLP)**  
+
+### 🌐 Web / API
+- **API FastAPI com autenticação JWT**  
+- **API Flask para cadastro e login**  
+
+### 🕷️ Web Scraping
+- **Scraper de preços** – exportação para Excel  
+- **Scraper geral** – coleta e estruturação de dados  
+
+### 📊 Dados
+- **Análise de vendas**  
+- **Limpeza e tratamento de dados com Pandas**  
+
+---
+
+## 📈 Minhas estatísticas no GitHub  
+
+[![Gabriel de Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiRioRange)](https://github.com/gabiRioRange/github-readme-stats)
 
 ---
 
 ## 📫 Contato  
-- E-mail: **seu.email@example.com**  
-- Freelancer: 99Freelas / Workana / Fiverr (links)  
+- **E-mail:** vieiragabrieldesouza78@gmail.com  
+- **Freelancer:** 99Freelas | Workana | Fiverr  
+
+---
+
+⭐ *Sempre aberto para colaborar em projetos e freelas!*  
