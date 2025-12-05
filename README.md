@@ -1,66 +1,114 @@
-# 👋 Olá, eu sou Gabriel Desenvolvedor Python  
+<h1 align="left">👋 Olá, eu sou Gabriel Desenvolvedor Python</h1>
 
-**Digital Craftsman Backend | IA | Automação | Dados**
+###
 
-Sou um desenvolvedor Python apaixonado por resolver problemas reais com código.  
-Atualmente curso **Ciência da Computação** e foco meu aprendizado em:
+<h2 align="left">Digital Craftsman Backend | IA | Automação | Dados</h2>
 
-- Backend (APIs e servidores)
-- Inteligência Artificial
-- Automação de processos
-- Ciência de Dados
+###
 
-Construo meus projetos do zero: desde a ideia, planejamento e prototipação, até o resultado final funcional.
+<img align="right" height="150" src="https://i.imgflip.com/ae5t3z.gif"  />
 
----
+###
 
-## 🛠️ Tech Stack & Skills  
+<p align="left">Sou um desenvolvedor Python apaixonado por resolver problemas reais com código.  <br>Atualmente curso Ciência da Computação e foco meu aprendizado em:<br><br>- Backend (APIs e servidores)<br>- Inteligência Artificial<br>- Automação de processos<br>- Ciência de Dados<br><br>Construo meus projetos do zero: desde a ideia, planejamento e prototipação, até o resultado final funcional.</p>
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-success?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-Microframework-lightgrey?style=for-the-badge&logo=flask)
-![Pandas](https://img.shields.io/badge/Pandas-Data--Analysis-yellow?style=for-the-badge&logo=pandas&logoColor=black)
-![Automation](https://img.shields.io/badge/Automação-Python-orange?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-Version--Control-red?style=for-the-badge&logo=git)
+###
 
----
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## 🚀 Projetos principais  
+###
 
-### 🔧 Automação
-- **Gerador automático de PDF** – cria relatórios completos a partir de planilhas  
-- **Automação de Excel** – leitura, limpeza e reorganização de dados  
+<h2 align="left">🛠️ Tech Stack & Skills</h2>
 
-### 🤖 Bots e IA
-- **Chatbot com IA (OpenAI API)**  
-- **Bot para Telegram** – comandos automáticos e respostas inteligentes  
-- **Classificador de textos (NLP)**  
+###
 
-### 🌐 Web / API
-- **API FastAPI com autenticação JWT**  
-- **API Flask para cadastro e login**  
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+</div>
 
-### 🕷️ Web Scraping
-- **Scraper de preços** – exportação para Excel  
-- **Scraper geral** – coleta e estruturação de dados  
+###
 
-### 📊 Dados
-- **Análise de vendas**  
-- **Limpeza e tratamento de dados com Pandas**  
+<h2 align="left">🚀 Projetos principais</h2>
 
----
+###
 
-## 📈 Minhas estatísticas no GitHub  
+<h3 align="left">🔧 Automação</h3>
 
-[![Gabriel de Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiRioRange)](https://github.com/gabiRioRange/github-readme-stats)
+###
 
----
+<p align="left">- Gerador automático de PDF– cria relatórios completos a partir de planilhas  <br><br>- Automação de Excel – leitura, limpeza e reorganização de dados</p>
 
-## 📫 Contato  
-- **E-mail:** vieiragabrieldesouza78@gmail.com  
-- **Freelancer:** 99Freelas | Workana | Fiverr  
+###
 
----
+<h4 align="left">🤖 Bots e IA</h4>
 
-⭐ *Sempre aberto para colaborar em projetos e freelas!*  
+###
+
+<p align="left">- Chatbot com IA (OpenAI API)  <br><br>- Bot para Telegram – comandos <br>automáticos e respostas inteligentes  <br><br>- Classificador de textos (NLP)</p>
+
+###
+
+<h4 align="left">🌐 Web / API</h4>
+
+###
+
+<p align="left">- API FastAPI com autenticação JWT  <br><br>- API Flask para cadastro e login</p>
+
+###
+
+<h4 align="left">🕷️ Web Scraping</h4>
+
+###
+
+<p align="left">- Scraper de preços – exportação para Excel  <br><br>- Scraper geral – coleta e estruturação de dados</p>
+
+###
+
+<h4 align="left">📊 Dados</h4>
+
+###
+
+<p align="left">- Análise de vendas  <br><br>- Limpeza e tratamento de dados com Pandas</p>
+
+###
+
+<h4 align="left">📫 Contato</h4>
+
+###
+
+<p align="left">- E-mail: vieiragabrieldesouza78@gmail.com  <br><br>- Freelancer: 99Freelas | Workana | Fiverr</p>
+
+###
+
+<p align="left">⭐ Sempre aberto para colaborar em projetos e freelas!</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=70&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
