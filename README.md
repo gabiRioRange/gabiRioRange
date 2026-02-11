@@ -16,7 +16,7 @@ Atuo principalmente com:
 📊 Análise e tratamento de dados  
 
 <br>
-Gosto de desenvolver projetos do zero — da ideia à implementação — sempre focando em resolver problemas reais, não apenas criar código.
+Gosto de desenvolver projetos do zero, da ideia à implementação, sempre focando em resolver problemas reais, não apenas criar código.
 </p>
 
 ---
