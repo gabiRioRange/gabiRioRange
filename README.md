@@ -1,102 +1,108 @@
-<h1 align="left">👋 Olá, eu sou Gabriel de Souza</h1>
+<h1 align="center">Gabriel de Souza</h1>
 
-<h3 align="left">💻 Desenvolvedor Python | Backend | Inteligência Artificial | Dados</h3>
+<p align="center">
+Desenvolvedor Backend Júnior | C# & .NET | Python | Engenharia de Software
+</p>
 
-<img align="right" height="160" src="https://i.imgflip.com/ae5t3z.gif" />
-
-<p align="left">
-Sou estudante de <strong>Ciência da Computação</strong> com foco em construir soluções reais usando Python.<br><br>
-
-Atuo principalmente com:
-<br>
-
-🚀 Desenvolvimento de APIs e sistemas backend  
-🤖 Inteligência Artificial aplicada  
-⚙️ Automação de processos  
-📊 Análise e tratamento de dados  
-
-<br>
-Gosto de desenvolver projetos do zero, da ideia à implementação, sempre focando em resolver problemas reais, não apenas criar código.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer+.NET;C%23+%7C+ASP.NET+Core;Python+para+Dados+e+Automa%C3%A7%C3%A3o;Construindo+Arquiteturas+Escal%C3%A1veis" />
 </p>
 
 ---
 
-<h2 align="left">🧠 O que eu estou desenvolvendo atualmente</h2>
+## 🧠 Sobre Mim
 
-- Sistemas backend com autenticação e controle de acesso  
-- Projetos de IA com embeddings e classificação de texto  
-- Automação de relatórios e fluxos operacionais  
-- Projetos voltados para Ciência de Dados aplicada  
+Sou estudante de **Ciência da Computação** em transição arquitetural do ecossistema Python para **C# e .NET**.
 
----
+Minha base analítica foi construída com:
 
-<h2 align="left">🛠️ Stack Principal</h2>
+- Automação de processos
+- APIs REST com FastAPI e Flask
+- Manipulação e análise de dados com Pandas
+- Projetos de IA e NLP
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40"/>
-</div>
+Atualmente concentro meus estudos e projetos em:
 
----
+- ASP.NET Core
+- Arquitetura limpa (Clean Architecture)
+- APIs REST com autenticação JWT
+- Princípios SOLID
+- Entity Framework Core
+- SQL Server
 
-<h2 align="left">🚀 Projetos em Destaque</h2>
-
-<h3>🔧 Automação</h3>
-
-- 📄 Gerador automático de PDF → criação de relatórios a partir de planilhas  
-- 📊 Automação de Excel → leitura, limpeza e reorganização de dados  
-
-<h3>🤖 Bots e Inteligência Artificial</h3>
-
-- Chatbot com integração à OpenAI API  
-- Bot para Telegram com comandos automatizados  
-- Classificador de textos com NLP  
-
-<h3>🌐 Web & APIs</h3>
-
-- API com FastAPI + autenticação JWT  
-- Sistema de cadastro e login com Flask  
-
-<h3>🕷️ Web Scraping</h3>
-
-- Scraper de preços com exportação para Excel  
-- Coleta e estruturação automatizada de dados  
-
-<h3>📊 Dados</h3>
-
-- Análise exploratória de vendas  
-- Limpeza e transformação de dados com Pandas  
+Meu objetivo é atuar como **Desenvolvedor Backend .NET Júnior**, aplicando minha base analítica para construir sistemas corporativos robustos e escaláveis.
 
 ---
 
-<h2 align="left">📬 Contato</h2>
+## 🛠️ Stack Principal
 
-<div align="left">
+### 🔷 Backend & Arquitetura
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
+</p>
+
+### 🔷 Base Analítica & Automação
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
+</p>
+
+### 🔷 Banco de Dados & Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🔐 API REST em ASP.NET Core
+- Autenticação JWT
+- Controle de acesso por perfil
+- Integração com banco relacional
+- Estrutura baseada em Clean Architecture
+
+### 📊 Sistema de Automação com Python
+- Geração automática de relatórios PDF
+- Tratamento e limpeza de dados
+- Integração com planilhas Excel
+
+### 🤖 Classificador de Texto (NLP)
+- Pipeline de processamento
+- Vetorização
+- Classificação supervisionada
+
+---
+
+## 📈 Estatísticas GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📬 Contato
+
+<p>
   <a href="mailto:vieiragabrieldesouza78@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-
   <a href="https://www.linkedin.com/in/gabriel-de-souza-408430275/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-
-  <a href="https://www.instagram.com/gambito_bah?igsh=MXNmd2QxdTg5ZmUzeg==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-</div>
+</p>
 
 ---
 
-<p align="left">
-⭐ Sempre aberto para colaborar em projetos backend, automação e IA.
-</p>
-
-<img src="https://raw.githubusercontent.com/gabiRioRange/gabiRioRange/output/snake.svg" alt="Snake animation" />
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt"/>
-</div>
+⭐ Atualmente focado em evoluir no ecossistema .NET e aberto a oportunidades de estágio ou posição Júnior em Backend.
