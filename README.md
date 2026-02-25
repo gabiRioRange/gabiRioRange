@@ -85,9 +85,9 @@ Meu objetivo é atuar como **Desenvolvedor Backend .NET Júnior**, aplicando min
 
 ## 📈 Estatísticas GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabiRioRange&show_icons=true&theme=tokyonight&v=1)](https://github.com/gabiRioRange)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=gabiRioRange&show_icons=true&theme=tokyonight)](https://github.com/gabiRioRange)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiRioRange&layout=compact&theme=tokyonight&v=1)](https://github.com/gabiRioRange)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabiRioRange&layout=compact&theme=tokyonight)](https://github.com/gabiRioRange)
 
 ---
 
